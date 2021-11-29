@@ -2,5 +2,6 @@
 Label templates 52,5x25,4 mm (A4 11x4 pieces) <br>
 Szablony Excel/Publisher do wpisywania tekstu dla etykiet (naklejek) 52,5x25,4 mm (11x4 sztuk na A4) <br>
 Excel - układ poziomy i pionowy etykiet dla wpisywania tekstu (uzupełnianie przez przeciąganie komórki z zawartością pola tekstowego) <br>
+Wymiary w Excel mogą nie odpowiadać fizycznym, dlatego komórki mają różne rozmiary, także z powodu wymuszonego marginesu <br>
 Publisher - układ pionowy etykiet (wysoka kolumna, krótki wiersz) <br>
 Zrobić wydruk testowy na danej drukarce przed drukowaniem seryjnym. <br>
